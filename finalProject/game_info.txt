@@ -1,0 +1,28 @@
+Game Info
+
+Space Shooter:
+Space Shooter is an action-packed arcade game set in outer space. Players control a spaceship and navigate through an asteroid field while battling enemy spacecraft. 
+The goal is to survive as long as possible and achieve the highest score by shooting down enemies and avoiding obstacles. 
+With its fast-paced gameplay and retro-inspired graphics, Space Shooter offers an exciting gaming experience for players of all ages.
+Playing Instructions: Your mission is to pilot your spaceship through space, dodging enemy ships and obstacles while destroying as many enemies as possible.  
+Controls:Left Arrow: Move left. Right Arrow: Move right. Spacebar: Shoot bullets.
+
+Word Generator:
+Embark on an interstellar journey of word exploration with the Space Word Challenge! 
+This captivating game invites players to test their vocabulary skills while delving into the captivating realm of outer space. 
+Featuring a myriad of celestial terms ranging from planets to galaxies, the Space Word Challenge offers an engaging and educational experience for players of all ages.
+
+Catch the Alien:
+
+
+------------------------------
+     CONTACT INFORMATION
+------------------------------
+Author: Kazi Arafat
+Email:  arafatk@mail.nmc.edu
+
+------------------------------
+    COPYRIGHT INFORMATION
+------------------------------
+If a .html file is reproduced, please provide credits to the author in the page interface.
+If a .js or .css file is reproduced, please provide credits to the author in the comments or documentation.

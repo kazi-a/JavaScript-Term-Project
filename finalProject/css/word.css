@@ -1,0 +1,84 @@
+/* Styling for the body */
+body {
+    background-image: url('../media/nasa.jpg'); /* Background image for the body */
+    background-size: cover; /* Ensure the background image covers the entire screen */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    height: 100vh; /* Ensure the body fills the viewport height */
+}
+
+/* Styling for the container div */
+.container {
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Ensure the container fills the viewport height */
+}
+
+/* Styling for the main box containing the game */
+.box {
+    border: 5px solid #857b7b; /* Border color and width */
+    padding: 20px; /* Padding inside the box */
+    border-radius: 20px; /* Rounded corners */
+    background-image: url('../media/space.gif'); /* Background image */
+    background-size: cover; /* Cover the entire box with the background image */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+}
+
+/* Styling for the h1 element */
+h1 {
+    text-align: center; /* Center align the text */
+    margin-bottom: 20px; /* Add some bottom margin */
+    color: blue; /* Text color */
+}
+
+/* Styling for the wordlist element */
+#wordlist {
+    margin-bottom: 20px; /* Add some bottom margin */
+}
+
+/* Styling for labels */
+label {
+    display: block; /* Display labels as block elements */
+    margin-bottom: 10px; /* Add some bottom margin */
+    color: yellow; /* Text color */
+}
+
+/* Styling for text input fields */
+input[type="text"], button {
+    width: 150px; /* Set width for text input fields */
+    font-family: monospace; /* Use monospace font */
+    font-size: 1.5em; /* Font size */
+    color: rgb(0, 14, 4); /* Text color */
+}
+
+/* Styling for the score element */
+#score-display, #game-messages {
+    margin-left: 20px; /* Add some left margin */
+    color: rgb(9, 237, 245); /* Text color */
+    font-size: 1.6em; /* Font size */
+    font-family: monospace; /* Use monospace font */
+}
+
+/* Styling for the edition class */
+.edition {
+    color: rgb(242, 242, 245); /* Text color */
+    font-size: 0.8em; /* Font size */
+}
+
+/* Styling for the scrambled-word element */
+.scrambled-word {
+    font-family: monospace; /* Use monospace font */
+    font-size: 2em; /* Font size */
+    color: rgb(245, 15, 15); /* Text color */
+}
+
+/* Styling for the message element */
+#game-messages {
+    color: rgb(84, 248, 133); /* Text color */
+    font-size: 1.6em; /* Font size */
+    font-family: monospace; /* Use monospace font */
+}

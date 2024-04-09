@@ -1,0 +1,50 @@
+/* Set margin, padding, overflow, background color, and flex properties for the body */
+body {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    overflow: hidden; /* Hide any overflow content */
+    background-color: #817d91; /* Set background color to a shade of gray */
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Set height to 100% of viewport height */
+}
+
+/* Set position property for the game container */
+#gameContainer {
+    position: relative; /* Relative positioning */
+}
+
+/* Set background image properties for the game canvas */
+#gameCanvas {
+    background-image: url('../media/space.avif'); /* Set background image */
+    background-size: cover; 
+}
+
+/* Set position, font size, color, and z-index for the instructions */
+#instructions {
+    position: absolute; /* Absolute positioning */
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    font-size: 20px; /* Set font size */
+    color: #b0c212; /* Set text color */
+    text-align: center; /* Align text to the center */
+    z-index: 12; /* Set stacking order */
+}
+
+/* Style the start button */
+#startButton {
+    font-size: 20px; /* Set font size */
+    padding: 10px 20px; /* Set padding */
+    background-color: #10106d; /* Set background color */
+    color: #c2f509; /* Set text color */
+    border: none; /* Remove border */
+    cursor: pointer; /* Set cursor to pointer */
+}
+
+/* Style the heading inside the instructions */
+#instructions h1 {
+    color: rgb(12, 225, 240); /* Set heading color */
+    font-size: 36px; /* Set heading font size */
+}
