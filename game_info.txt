@@ -12,8 +12,13 @@ Embark on an interstellar journey of word exploration with the Space Word Challe
 This captivating game invites players to test their vocabulary skills while delving into the captivating realm of outer space. 
 Featuring a myriad of celestial terms ranging from planets to galaxies, the Space Word Challenge offers an engaging and educational experience for players of all ages.
 
-Catch the Alien:
-
+Galactic-Mole-Whack:
+Galactic-Mole-Whack is a thrilling arcade game set in a galactic landscape filled with mole-like creatures popping up from the ground. 
+The objective is to achieve the highest score possible while maintaining a sufficient number of lives to continue playing. 
+With its fast-paced gameplay and engaging mechanics, Galactic-Mole-Whack promises an enjoyable gaming experience for players of all skill levels.
+Playing Instructions: Your mission is to react quickly to the appearance of moles on the screen by clicking on them with your mouse cursor. 
+Each successful whack earns you points, while missing a mole reduces your remaining lives.
+Controls: Mouse Click: Whack the mole.
 
 ------------------------------
      CONTACT INFORMATION

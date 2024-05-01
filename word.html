@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Word Challenge</title>
+    <link rel="stylesheet" href="css/word.css"/> 
+</head>
+<body>
+<div class="container">
+    <div class="box">
+        <h1>Word Challenge!!!<span class="edition">Space Edition</span></h1>
+        <div id="game-words" style="display: none;">
+            alien
+            asteroid
+            blackhole
+            comet
+            cosmos
+            galaxy
+            gravity
+            meteor
+            moon
+            nebula
+            orbit
+            planet
+            rocket
+            satellite
+            shuttle
+            spaceship
+            star
+            supernova
+            telescope
+            universe
+            astronaut
+            celestial
+            constellation
+            eclipse
+            exoplanet
+            interstellar
+            lunar
+            observatory
+            pulsar
+            quasar
+            solar
+            spacewalk
+            starlight
+            stargazing
+            spacestation
+            spacecraft
+            wormhole
+        </div>
+        <form id="game-form">
+            <label>
+                Unscramble these letters in order to form a word:<br>
+                <span class="scrambled-word"></span>
+                <br>
+                <input type="text" size="10">
+            </label>
+            <button type="submit">Check</button>
+            <span id="score-display">Points: 0</span>
+            <span id="game-messages"></span> 
+        </form>
+    </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="js/word.js"></script> 
+</body>
+</html>

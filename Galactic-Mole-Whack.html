@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galactic-Mole-Whack</title>
+    <link rel="stylesheet" href="css/mole.css">
+</head>
+<body>
+    <div id="game">
+        <div id="controls">
+            <h1>Galactic-Mole-Whack</h1>
+            <label for="level">Choose a level:</label>
+            <select id="level">
+                <option value="easy">Easy</option>
+                <option value="medium">Medium</option>
+                <option value="hard">Hard</option>
+            </select>
+            <button id="startButton">Start Game</button>
+            <p>Score: <span id="score">0</span></p>
+            <p>Lives: <span id="lives">3</span></p>
+        </div>
+        <div id="gridContainerWrapper">
+            <div id="gridContainer"></div>
+        </div>
+    </div>
+    <script src="js/moles.js"></script>
+</body>
+</html>
